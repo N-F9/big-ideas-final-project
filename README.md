@@ -9,7 +9,7 @@
 ## Datasets
 
 - Taxes (Nick)
-    - [city treasury sales](https://data.wprdc.org/dataset/city-treasury-sales)
+    <!-- - [city treasury sales](https://data.wprdc.org/dataset/city-treasury-sales) -->
     - [city property tax abatements](https://data.wprdc.org/dataset/city-property-tax-abatements)
     - [city of pittsburgh property tax delinquency](https://data.wprdc.org/dataset/city-of-pittsburgh-property-tax-delinquency)
 - Business Licenses (Josh)
