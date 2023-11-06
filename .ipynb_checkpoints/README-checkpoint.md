@@ -14,7 +14,7 @@
     - [city of pittsburgh property tax delinquency](https://data.wprdc.org/dataset/city-of-pittsburgh-property-tax-delinquency)
 - Business Licenses (Josh)
     - [business contractors trades](https://data.wprdc.org/dataset/business-contractors-trades)
-- Best Location (Jacob)
+- Population Analysis (Jacob)
     - [neighborhoods with snap data](https://data.wprdc.org/dataset/neighborhoods-with-snap-data)
     
 <!-- - [neighborhoods2](https://data.wprdc.org/dataset/neighborhoods2) -->
