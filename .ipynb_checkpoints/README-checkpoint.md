@@ -3,7 +3,7 @@
 ## Members
 
 - Nick Ferguson
-
+- Jacob Klinedinst
 
 ## Datasets
 
