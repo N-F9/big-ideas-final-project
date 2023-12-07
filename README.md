@@ -27,6 +27,6 @@ A Jupyter notebook to figure out the best neighborhood for a Pizza Shop in Pitts
         - Information about various food facilities, used for pizza shops metric.
 - Population Analysis (Jacob)
     - [neighborhoods with snap data](https://data.wprdc.org/dataset/neighborhoods-with-snap-data)
-        - Contains population data about each neighborhood. used for determining how many people are in the target population in a neighborhood.
+        - Contains population data about each neighborhood, used for determining how many people are in the target population in a neighborhood.
     
 <!-- - [neighborhoods2](https://data.wprdc.org/dataset/neighborhoods2) -->
